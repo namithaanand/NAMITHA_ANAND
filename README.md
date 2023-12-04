@@ -1,3 +1,5 @@
+ML DISEASES PREDICTION
+
 Project on 'Machine Learning algorithms for predicting the risks of chronic diseases' Machine learning algorithms have emerged as powerful tools for predicting the risks of chronic diseases.
 This study presents an overview of various machine learning models and techniques utilized for this purpose.
 The goal is to develop accurate and reliable predictive models that can assist in early detection and proactive management of chronic diseases. 
